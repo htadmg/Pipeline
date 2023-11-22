@@ -1,4 +1,4 @@
-# Readme do Projeto de Pipeline de Montagem de Veículos
+# Projeto de Pipeline de Montagem de Veículos
 
 Este projeto é um exemplo de implementação de um sistema de montagem de veículos usando o padrão de design Pipeline. O código consiste em duas versões de pipeline: um simples e outro duplo, para ilustrar diferentes abordagens na montagem de veículos.
 
