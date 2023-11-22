@@ -1,0 +1,16 @@
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.csproj.AssemblyReference.cache
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.AssemblyInfoInputs.cache
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.AssemblyInfo.cs
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.csproj.CoreCompileInputs.cache
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.exe
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.deps.json
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.runtimeconfig.json
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.runtimeconfig.dev.json
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.dll
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\ref\Pipeline.dll
+C:\Users\agata\source\repos\Pipeline\bin\Debug\net5.0\Pipeline.pdb
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.dll
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\ref\Pipeline.dll
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.pdb
+C:\Users\agata\source\repos\Pipeline\obj\Debug\net5.0\Pipeline.genruntimeconfig.cache
